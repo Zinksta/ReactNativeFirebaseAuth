@@ -6,7 +6,8 @@ import { View } from 'react-native';
 import { Header, Button, Spinner, Card, CardSection } from './components/common';
 import LoginForm from './components/LoginForm';
 
-// Firebase configuration
+// Firebase configuration config is from your firebase project
+// after setting up firebase project, this one will not work!!!!
 const config = {
     apiKey: 'AIzaSyA2YmjPvOAdMj2HPO-RmrjGd9Yvs5Hngjk',
     authDomain: 'auth-7b1cd.firebaseapp.com',
